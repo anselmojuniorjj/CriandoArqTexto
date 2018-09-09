@@ -1,0 +1,10 @@
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\bin\Debug\CriandoArqTexto.exe.config
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\bin\Debug\CriandoArqTexto.exe
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\bin\Debug\CriandoArqTexto.pdb
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\obj\Debug\CriandoArqTexto.csprojResolveAssemblyReference.cache
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\obj\Debug\CriandoArqTexto.Form1.resources
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\obj\Debug\CriandoArqTexto.Properties.Resources.resources
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\obj\Debug\CriandoArqTexto.csproj.GenerateResource.cache
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\obj\Debug\CriandoArqTexto.csproj.CoreCompileInputs.cache
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\obj\Debug\CriandoArqTexto.exe
+C:\Users\uu\source\repos\CriandoArqTexto\CriandoArqTexto\obj\Debug\CriandoArqTexto.pdb
